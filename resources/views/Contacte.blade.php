@@ -8,7 +8,7 @@ Contacte
 @section('content')
 
 
-  <p>BONJOUR retoutner a la page <a href ="{{route('pHome')}}">d'acceuille </a></P>
+  <p>BONJOUR</P>
   {{env('APP_NAME')}}
   
 @endsection('content')
