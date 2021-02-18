@@ -1,28 +1,49 @@
-<footer class="bg-dark">
-    <div class="container bg-dark">
-        <div class="footer">
-            <div class="row">
-                <div class="col-md-4">
-                    <a href="#" class="footer-link">Privacy policy</a><br>
-                    <a href="#" class="footer-link">Term and conditions</a><br>
-                </div>
-                <div class="col-md-4">
-                    <h3>
-                        Welcome to the site
-                    </h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam, assumenda. Culpa, libero.</p>
-                </div>
-                <div class="col-md-4">
-                    <h3>
-                        Contact:
-                    </h3>
-                    <p>Phone: +249126545060</p>
-                    <p>Email: mohammedomer789@gmail.com</p>
-                    <p>Facebook: <a href="https://facebook.com/mohammedomer789">Mohammed Omer</a></p>
-                    <p>Github: <a href="https://github.com/m7md3omer">Mohammed Omer</a></p>
-                </div>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+   <link rel="stylesheet" href="css/footer.css">
+</head>
+
+<body>
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    
+                    <div class="col-md-6 item text">
+                        <h3>Company Name</h3>
+                        <p>Praesent sed lobortis mi. Suspendisse vel placerat ligula. Vivamus ac sem lacus. Ut vehicula rhoncus elementum. Etiam quis tristique lectus. Aliquam in arcu eget velit pulvinar dictum vel in justo.</p>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Services</h3>
+                        <ul>
+                            <li><a href="#">Web design</a></li>
+                            <li><a href="#">Development</a></li>
+                            <li><a href="#">Hosting</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>About</h3>
+                        <ul>
+                            <li><a href="#">Company</a></li>
+                            <li><a href="#">Team</a></li>
+                            <li><a href="#">Careers</a></li>
+                        </ul>
+                    </div>
+               
             </div>
-        </div>
-        <p>copyright &copy; Mohammed Omer Ali - All rights reserved 2019</p>
+        </footer>
     </div>
-</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
+
+<!-- Credit to https://epic
