@@ -18,11 +18,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('Home', function () {
     return view('Home');
-});
+})->name('pHome');
 
 Route::get('/Contacte', function () {
     return view('Contacte');
-});
+})->name('pContacte');
 
 /*
 Route :: get('/', ['as' => 'home', function(){
