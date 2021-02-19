@@ -1,13 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\bootstrap",
-    "\\bootstrap\\cache",
-    "\\resources\\css",
-    "\\resources\\views",
-    "\\resources\\views\\Layouts",
-    "\\resources\\views\\partials"
+    ""
   ],
-  "SelectedNode": "\\bootstrap",
+  "SelectedNode": "\\Procfile",
   "PreviewInSolutionExplorer": false
 }
