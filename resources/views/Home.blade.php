@@ -5,6 +5,7 @@
     
   @section('content')
 
+<p>Bonjour</p>
   <img class ="image" src ="image/tartelete.jpg" alt ="tartelete">
 
   <p>soyez les bien venu  les amies sur mon blog de cuisine  pour plus de detail <a  href="{{route('pContacte')}}" >contactez nous</a>  <p/>
