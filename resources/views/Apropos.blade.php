@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -138,7 +139,6 @@
         <h2 class="blog-post-title">Sample blog post</h2>
         <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
 
-        <p>This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
         <hr>
         <p>Yeah, she dances to her own beat. Oh, no. You could've been the greatest. 'Cause, baby, <a href="#">you're a firework</a>. Maybe a reason why all the doors are closed. Open up your heart and just let it begin. So très chic, yeah, she's a classic.</p>
         <blockquote>
