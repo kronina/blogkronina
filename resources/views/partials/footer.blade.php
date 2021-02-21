@@ -11,6 +11,7 @@
 
 <body>
     <div class="footer-dark">
+    
 
         <footer>
             <div class="container">
@@ -39,6 +40,12 @@
                     </div>
                
             </div>
+                @if(! Route::is('pContacte'))
+
+                &middot;<a href ="{{route('pHome')}}">  <p class="copyright"> <?php echo config('database.connections.sqlite.database')?> © 2021</p></a>
+
+                @endif
+           
 
             </footer>
     </div>

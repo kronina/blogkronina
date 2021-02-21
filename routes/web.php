@@ -24,6 +24,15 @@ Route::get('/Contacte', function () {
     return view('Contacte');
 })->name('pContacte');
 
+/*Route::get ('/welcome','ControlRecettes@liste');
+*/
+Route::POST('/welcome','ControlRecettes@visiteur');
+
+
+Route::view('/Apropos', 'Apropos');
+
+
+
 /*
 Route :: get('/', ['as' => 'home', function(){
 	

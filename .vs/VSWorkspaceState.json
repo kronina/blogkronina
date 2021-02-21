@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\Console",
+    "\\app\\Http",
+    "\\app\\Models",
+    "\\repo",
+    "\\resources\\views",
+    "\\resources\\views\\Layouts",
+    "\\resources\\views\\partials"
   ],
-  "SelectedNode": "\\Procfile",
+  "SelectedNode": "\\app\\Models",
   "PreviewInSolutionExplorer": false
 }
